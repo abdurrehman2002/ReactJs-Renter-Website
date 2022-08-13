@@ -2,10 +2,10 @@
 This is a website to find a Flat and Home for Rent.This website is fully developed in react js.
 
 # Installation
-Install my-project with npm
 
-npm install project-name
-
-cd project-name
-
- npm start
+```
+git clone https://github.com/abdurrehman2002/ReactJs-Renter-Website.git
+cd letterpress-inspired
+npm install
+npm start
+```
